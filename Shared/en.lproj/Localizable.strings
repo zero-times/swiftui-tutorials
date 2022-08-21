@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  swiftui tutorials
+
+  Created by HOA on 2022/8/21.
+  
+*/
+"Base" = "Base";
+"Search" = "Search";
+"Likes" = "Likes";
+"Developer" = "Developer";

@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  swiftui tutorials
+
+  Created by HOA on 2022/8/21.
+  
+*/
+CFBundleDisplayName = "SwiftUI Tutorials";
